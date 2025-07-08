@@ -4,18 +4,18 @@
 
 3. 🧠 Model Used:
 ✅ Linear Regression (from sklearn.linear_model)
-   Linear regression is chosen due to its:
-   Simplicity and interpretability.
-   Low variance and computational efficiency.
-   Good baseline performance.
+   * Linear regression is chosen due to its:
+   * Simplicity and interpretability.
+   * Low variance and computational efficiency.
+   * Good baseline performance.
 
 4. 📊 Workflow:
-Data Cleaning – handle missing values if any.
-Feature Engineering – select relevant input features.
-Train-Test Split – 80/20 split for training and testing.
-Model Training – apply LinearRegression() model.
-Prediction – predict marks for test data.
-Evaluation – using R² score, MAE, RMSE.
+* Data Cleaning – handle missing values if any.
+* Feature Engineering – select relevant input features.
+* Train-Test Split – 80/20 split for training and testing.
+* Model Training – apply LinearRegression() model.
+* Prediction – predict marks for test data.
+* Evaluation – using R² score, MAE, RMSE.
 
 
 
